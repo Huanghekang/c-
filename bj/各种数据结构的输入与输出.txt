@@ -1,0 +1,9 @@
+整数
+int
+printf("%d",...);
+scanf("%d",..)
+
+带小数点的数
+double或者float
+printf("%f",....)
+scanf("%lf",...)(double用lf而float用f)。

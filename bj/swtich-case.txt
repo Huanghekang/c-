@@ -1,0 +1,13 @@
+ switch（type）{
+   case 1：
+      printf("你好");
+       break;
+    case 2：
+      printf("早上好");
+       break;
+   default ：
+        printf("晚上好")
+        break；
+}
+     对于switch case语句，后面一般要加上break语句，否则，他会一直向后执行。
+   前面的控制表达式只能是整数的结果。
